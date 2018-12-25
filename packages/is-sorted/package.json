@@ -1,0 +1,22 @@
+{
+  "name": "is-sorted",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Joseph Groves <joseph.naoki.groves@accenture.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/is-sorted.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
