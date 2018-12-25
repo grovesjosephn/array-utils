@@ -1,8 +1,8 @@
 {
-  "name": "head",
+  "name": "@grovesjosephn/head",
   "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "Joseph Groves <joseph.naoki.groves@accenture.com>",
+  "author": "Joseph Groves <grovesjosephn@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/head.js",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "861e2cdcb31d69622185eee128b8c767649deaf9"
 }

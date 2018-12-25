@@ -1,8 +1,8 @@
 {
-  "name": "is-sorted",
+  "name": "@grovesjosephn/is-sorted",
   "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "Joseph Groves <joseph.naoki.groves@accenture.com>",
+  "author": "Joseph Groves <grovesjosephn@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/is-sorted.js",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "gitHead": "861e2cdcb31d69622185eee128b8c767649deaf9"
 }
